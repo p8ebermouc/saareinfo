@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+HITCLUB GAME BÀI ĐỔI TIỀN THẬT – TẢI HIT CLUB 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Hitclub <https://saare.info/>`_ là một cổng game bài trực tuyến nổi bật, thu hút sự chú ý của đông đảo cược thủ tại Việt Nam và trên khắp Châu Á. Với danh tiếng được xây dựng dựa trên sự đa dạng của các trò chơi, dịch vụ chất lượng cao và những ưu đãi hấp dẫn, nay kết hợpc với saare.info nhanh chóng khẳng định vị thế của mình trong lòng người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 3e Đ. Võ Văn Vân, ấp 1, Bình Chánh, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0396034877. 
 
-Contents
---------
+Email: saareinfo@gmail.com. 
 
-.. toctree::
+Website: https://saare.info/
 
-   usage
-   api
+#hitclub #hitclubgame #saareinfo #saare
